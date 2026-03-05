@@ -136,5 +136,6 @@ customer-churn-prediction/
 
 ## Author
 
-Nithish
+##Nithish
+
 This project was developed as part of a data science portfolio project.
